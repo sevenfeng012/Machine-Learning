@@ -1,0 +1,57 @@
+
+
+
+
+《大长今》调查
+
+1、你看《大长今》吗？
+
+不看
+
+赶上就看
+
+正在追着看
+
+看过n遍  
+
+2、《大长今》吸引你的是
+
+情节曲折，悬念迭起
+
+俊男靓女美食
+
+爱情亲情友情感人，台词经典
+
+励志向上，善和美打动人心  
+
+3、你认为日韩剧成功在哪里
+
+细节取胜，平淡中见真情
+
+情节设计合理，戏剧性强
+
+人物立体丰满，贴近生活，比较真实
+
+演员表演分寸适当，不夸张
+
+包含很多时尚元素，画面唯美  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }搜狗(www.sogou.com)搜索:“人物”,共找到28,456,427
+个相关网页.
+
+【红玫瑰与白玫瑰】 1994年第一机构有限公司出品
+红玫瑰白玫瑰
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 也许每一个男子全都有过这样的两个女人，至少两个．娶了红玫瑰，久而久之，红的变了墙上的一抹蚊子血，白的还是“床前明月光”；娶了白玫瑰，白的便是衣服上的一粒饭粘子，红的却是心口上的一颗朱砂痣。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --【红玫瑰与白玫瑰】
+原著：&nbsp;&nbsp;&nbsp; 张爱玲编剧：&nbsp;&nbsp;&nbsp; 刘恒林 亦华导演：&nbsp;&nbsp;&nbsp; 关锦鹏摄影：&nbsp;&nbsp;&nbsp; 杜可风美术指导：朴若木色彩：&nbsp;&nbsp;&nbsp; 彩色片长：&nbsp;&nbsp;&nbsp; 110min分级：&nbsp;&nbsp;&nbsp; 芬兰/K-16语言：&nbsp;&nbsp;&nbsp; 粤语外文别名：Red Rose White Rose(1994)主演：&nbsp;&nbsp;&nbsp; 赵文宣&nbsp; 饰&nbsp; 佟振保&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 陈&nbsp; 冲&nbsp; 饰&nbsp; 王娇蕊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 叶玉卿&nbsp; 饰&nbsp; 孟烟郦获奖：&nbsp;&nbsp; 台湾电影金马奖最佳女主角、最佳剧本、最佳美术设计、最佳造型设计、最佳电影音乐
+【剧情简介】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 振保的生命里就有两个女人，他说一个是他的白玫瑰，一个是他的红玫瑰。一个是圣洁的妻，一个是热烈的情妇……留洋回来的振保(赵文瑄饰)在一家外商公司谋了个高职。为了交通方便，他租了老同学王士洪的屋子。振保留学期间，有一个叫玫瑰的初恋情人。他曾因拒绝过玫瑰的求欢而获取了“柳下惠”的好名声。王士洪有一位风情万种的太太，她总令振保想入非非。有一次，士洪去新加坡做生意了，经过几番灵与肉的斗争，在一个乍暖还寒的雨日，振保被这位叫娇蕊(陈冲饰)的太太“囚住”了。令振保所料不及的是娇蕊这次是付出了真爱的。当她提出把真相告诉了王士洪时，振保病倒了。在病房，振保把真实的一面告诉了娇蕊——他不想为此情而承受太多责难。娇蕊收拾她纷乱的泪珠，出奇的冷静起来，从此走出了他的生命。　　在母亲撮合下，振保带着点悲凉的牺牲感，娶了身材单薄、静如止水的孟烟鹂(叶玉卿饰)。新娘给人的感觉只是笼统的白净，她无法唤起振保的性欲。振保开始在外边嫖妓。可是有一天，他竟发现了他的阴影里没有任何光泽的白玫瑰烟鹂，居然和一个形象猬狎的裁缝关系暧昧。从此，振保在外边公开玩女人，一味地放浪形骸起来。有一天，他在公共汽车上巧遇了他生命中的“红玫瑰”娇蕊，她已是一种中年人的俗艳了。岁月无情，花开花落，在泪光中，振保的红玫瑰与白玫瑰已是一种现实中的幻影。旧日的善良一点一点地逼近振保。回到家，在一番歇斯底里的发作后，振保又重新变成了一个好人。 上一页&nbsp;[1]&nbsp;[2]&nbsp;[3]&nbsp;[4]&nbsp;[5]&nbsp;[6]&nbsp;[7]&nbsp;[8]&nbsp;[9]&nbsp;下一页&nbsp;
+
+《金锁记》
+金锁记
+　　 根据张爱玲同名小说改编，“张爱玲名著中的名著”，继《大宅门》《橘子红了》之后又一部唯美、豪华的家族大戏。清末民初，小镇上天真烂漫的少女曹七巧（刘欣饰）和京城大户姜家的三少爷季泽（邵峰饰）一见钟情，可七巧的哥哥曹大年（刘永生饰）贪图钱财要把妹妹嫁给患有软骨病的老二钟泽（气壳饰），七巧为了接近季泽，答应这门婚事。失望至极的季泽在仲泽的婚宴上喝得酩酊大醉，令七巧心痛欲裂。此后，季泽越来越沉沦，常常夜宿妓院，七巧冒险到妓院劝阻，与酒醉的季泽同居了一晚，并因此怀孕，生下一子，由此招致众人的诸多非议。仲泽为保护妻子，临终时，坚定地声称自己是这孩子的亲生父亲，姜老太太（奚美娟饰）亦为维护自家的名声，痛斥众人对七巧的攻击。老大伯泽（程前饰）夫妇为了倾吞家产，利用七巧对季泽的感情，设下一个个圈套，造成七巧和季泽误会重重，使得她们本来纯洁的情感在金钱和岁月的摧残下渐渐消逝。于是七巧的人格开始扭曲，性情变得冷酷，她甚至亲手毁掉了儿女的婚姻和幸福，变成一个刻薄自私、终日靠鸦片麻痹灵魂的女人。 上一页&nbsp;[1]&nbsp;[2]&nbsp;[3]&nbsp;[4]&nbsp;[5]&nbsp;[6]&nbsp;[7]&nbsp;[8]&nbsp;[9]&nbsp;下一页&nbsp;
+
+【半生缘】 1997年香港东方影业公司出品
+半生缘
+&nbsp;&nbsp;&nbsp; 他一旦想起曼桢，就觉得他从来也没有停止想念她过。就是自己以为已经忘记她的时候，她也还是在那里的，在他一切思想的背后。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+原著：张爱玲编剧：陈健忠色彩：彩色片长：125min语言：普通话外文别名：Eighteen Springs(1997)&nbsp;&nbsp;&nbsp; Half Life Fate(1997)导演：许鞍华主演：吴倩莲&nbsp; 饰&nbsp; 顾曼桢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 黎&nbsp; 明&nbsp; 饰&nbsp; 沈世均&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 黄&nbsp; 磊&nbsp; 饰&nbsp; 许叔惠&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 吴辰君&nbsp; 饰&nbsp; 石翠芝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 梅艳芳&nbsp; 饰&nbsp; 顾曼璐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 葛&nbsp; 优&nbsp; 饰&nbsp;&nbsp; 祝鸿才&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王志文&nbsp; 饰&nbsp;&nbsp; 张豫槿获奖：1998年香港电影协会最佳女主角奖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1998年香港电影金像最佳女配角奖
+【剧情简介】&nbsp;&nbsp;&nbsp; 30年代的上海。世钧和曼桢是同一工厂做工的恋人。曼桢早年丧父，家庭生活靠姐姐曼璐当舞女维持，后来曼璐又当了妓女，最终嫁给了有妇之夫祝鸿才。为了保全自已的地位，不能生育的曼璐以一种怨毒的心态与其夫合谋，令祝强奸了曼桢。曼桢为姐姐、姐夫生下一子，葬送了自已的恋情。姐姐死后，她也嫁给了祝鸿才。多年后，曼桢与世钧重逢，两人发现，前情虽在，后缘难续。 上一页&nbsp;[1]&nbsp;[2]&nbsp;[3]&nbsp;[4]&nbsp;[5]&nbsp;[6]&nbsp;[7]&nbsp;[8]&nbsp;[9]&nbsp;下一页&nbsp;
